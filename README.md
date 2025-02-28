@@ -1,4 +1,4 @@
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kucdhobm2ttoqbo5ufbsp55cbu)
+![Alt text]([https://spotify-recently-played-readme.vercel.app/api?user=31kucdhobm2ttoqbo5ufbsp55cbu](https://widgetapp.stream/view/a9f61f79-f7e3-47d8-8bc3-6ea1b402d046_0a94c5c0-0861-471e-9426-ab3de604ef06)
 
 <h3 align="left">Favorite Tech</h3>
 
