@@ -1,4 +1,4 @@
-![Alt text](https://widgetapp.stream/view/a9f61f79-f7e3-47d8-8bc3-6ea1b402d046_0a94c5c0-0861-471e-9426-ab3de604ef06)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kucdhobm2ttoqbo5ufbsp55cbu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="left">Favorite Tech</h3>
 
